@@ -33,7 +33,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ---
 
 ## 💼 My Next Milestones
-- Build my first **Interactive Website** (Spider-Man inspired “About Us” page 🕸️)  
+- Build my first **Interactive Website**   
 - Create & publish my **first mobile app**  
 - Develop a **lightweight 2D-3D drawing tool** for artists  
 - Start contributing to **open-source projects**  
