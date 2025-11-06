@@ -55,9 +55,13 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ---
 
 ## 🧩 Fun Side
-🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Gamer  
-I love mixing creativity with logic — like Tony Stark designing Jarvis with a pencil sketch.  
-I dream, design, and debug till the idea *lives.*
+🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Dreamer  
+
+I grew up powered by imagination — cartoons like *Doraemon* and universes like *Avengers* didn’t just entertain me,  
+they made me question everything: science, existence, and the limits of human creation.  
+
+While college lectures drown in routine and an education system that kills curiosity,  
+these stories fuel my fire — they remind me why I started learning, building, and dreaming in the first place.
 
 ---
 
