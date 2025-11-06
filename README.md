@@ -1,47 +1,50 @@
-# 👋 Hey, I’m Soumodip Ghosh  
+# 👋 Hey, I’m Soumodip Ghosh
 
-### ⚡ a.k.a. Electronicus | BROCCOLI | The Architect of OCTOPUS 🧠  
+### ⚡ a.k.a. Electronicus | BROCCOLI | The Architect of OCTOPUS 🧠
 
-I’m a **Computer Science & Engineering** student from India, walking the path from a **C beginner** to a **Full-Stack Developer, App Creator, and Future Tech Founder.**  
+I’m a **Computer Science & Engineering** student from India, walking the path from a **C beginner** to a **Full-Stack Developer, App Creator, and Future Tech Founder.**
 
 I believe knowledge is power — and creation is revolution.  
-From drawing art on paper to writing code that builds worlds — I’m shaping my vision step by step.  
+From drawing art on paper to writing code that builds worlds — I’m shaping my vision step by step.
 
 ---
 
-## 🧩 The Vision: PROJECT OCTOPUS 🐙  
+## 🧩 The Vision: PROJECT OCTOPUS 🐙
 
-“Some visions are not meant to be spoken — they are meant to be built.”  
+“Some visions are not meant to be spoken — they are meant to be built.”
 
 There’s something I’m working toward — something that connects everything I learn, create, and imagine.  
-For now, it stays behind the curtain.  
+For now, it stays behind the curtain.
 
 When the time comes — when the idea becomes real enough to change a small corner of the world —  
-this space will reveal what it truly means.  
+this space will reveal what it truly means.
 
 Until then, I’m learning, experimenting, and quietly constructing the foundation.
 
 ---
 
 ## 🧠 What I’m Learning Now
-- 🧩 C, C++, Python, Java, JavaScript  
-- 🌐 HTML, CSS (Building my web foundation)  
-- 🧮 Mathematics, Physics, Logic, Problem Solving  
-- ⚙️ Git, GitHub, CMD, PowerShell  
+
+- 🧩 C, C++, Python, Java, JavaScript
+- 🌐 HTML, CSS (Building my web foundation)
+- 🧮 Mathematics, Physics, Logic, Problem Solving
+- ⚙️ Git, GitHub, CMD, PowerShell
 - 🎨 Drawing & Design fundamentals for Game Art
 
 ---
 
 ## 💼 My Next Milestones
-- Build my first **Interactive Website**   
-- Create & publish my **first mobile app**  
-- Develop a **lightweight 2D-3D drawing tool** for artists  
-- Start contributing to **open-source projects**  
+
+- Build my first **Interactive Website**
+- Create & publish my **first mobile app**
+- Develop a **lightweight 2D-3D drawing tool** for artists
+- Start contributing to **open-source projects**
 - Begin the early **OCTOPUS prototypes**
 
 ---
 
 ## 🛠️ Languages & Tools
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,10 +58,11 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ---
 
 ## 🧩 Fun Side
-🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Dreamer  
 
-I grew up powered by imagination — cartoons like *Doraemon* and universes like *Avengers* didn’t just entertain me,  
-they made me question everything: science, existence, and the limits of human creation.  
+🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Dreamer
+
+I grew up powered by imagination — cartoons like _Doraemon_ and universes like _Avengers_ didn’t just entertain me,  
+they made me question everything: science, existence, and the limits of human creation.
 
 While college lectures drown in routine and an education system that kills curiosity,  
 these stories fuel my fire — they remind me why I started learning, building, and dreaming in the first place.
@@ -66,15 +70,16 @@ these stories fuel my fire — they remind me why I started learning, building, 
 ---
 
 ## 📫 Connect
-- 🌐 [Portfolio – Coming Soon]  
-- 💬 Discord: **Electronicus#2025**  
-- 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)  
-- 🧠 LinkedIn: *(Add when ready)*  
+
+- 🌐 [Portfolio – Coming Soon]
+- 💬 Discord: **coming soon**
+- 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
+- 🧠 LinkedIn: _(Add when ready)_
 
 ---
 
 > “Knowledge without creation is noise.  
 >  Creation without vision is chaos.  
->  But when vision meets creation — that’s revolution.”  
+>  But when vision meets creation — that’s revolution.”
 
-— *Soumodip Ghosh*
+— _Soumodip Ghosh_
