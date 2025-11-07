@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Soumodip Ghosh
 
 <p align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%" style="border-radius: 12px;">
+  <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 12px;">
 </p>
 
 ### ⚡ a.k.a. Electronicus | BROCCOLI | The Architect of OCTOPUS 🧠
