@@ -1,5 +1,9 @@
 # 👋 Hey, I’m Soumodip Ghosh
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Banner" width="100%" style="border-radius: 12px;">
+</p>
+
 ### ⚡ a.k.a. Electronicus | BROCCOLI | The Architect of OCTOPUS 🧠
 
 I’m a **Computer Science & Engineering** student from India, walking the path from a **C beginner** to a **Full-Stack Developer, App Creator, and Future Tech Founder.**
