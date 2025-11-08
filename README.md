@@ -18,7 +18,7 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 <table>
 <tr>
 <td width="40%">
-  <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:26.236Z.png" alt="Project Vision" width="100%" style="border-radius: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXqDqB13Bk0GE0w3hkU1msx4412tVW5NZ3Q&s" alt="Project Vision" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 
