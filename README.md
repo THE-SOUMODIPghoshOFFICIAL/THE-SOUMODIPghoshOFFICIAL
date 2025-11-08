@@ -18,7 +18,7 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 <table>
 <tr>
 <td width="40%">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RjMsHfH6ZBaqwldqgvnDa2fK3eGgvzXphQ&s" width="100%" style="border-radius: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdn_I_T57nrG_zACHH9bHordF5ShPfceqA5wRa7oWfZCuBzmk-wiSAKaJSXfQEm2UiH_M&usqp=CAU" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 
