@@ -15,15 +15,26 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 
 ## 🧩 The Vision: PROJECT OCTOPUS 🐙
 
-“Some visions are not meant to be spoken — they are meant to be built.”
+<table>
+<tr>
+<td width="40%">
+  <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:26.236Z.png" alt="Project Vision" width="100%" style="border-radius: 10px;">
+</td>
+<td width="60%" valign="top">
+
+> “Some visions are not meant to be spoken — they are meant to be built.”  
 
 There’s something I’m working toward — something that connects everything I learn, create, and imagine.  
-For now, it stays behind the curtain.
+For now, it stays behind the curtain.  
 
 When the time comes — when the idea becomes real enough to change a small corner of the world —  
-this space will reveal what it truly means.
+this space will reveal what it truly means.  
 
 Until then, I’m learning, experimenting, and quietly constructing the foundation.
+
+</td>
+</tr>
+</table>
 
 ---
 
