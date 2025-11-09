@@ -39,12 +39,22 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ---
 
 ## 🧠 What I’m Learning Now
+<table>
+<tr>
+<td width="40%">
+  <img src="assets/learning.png" alt="Learning Illustration" width="100%" style="border-radius: 10px;">
+</td>
+<td width="60%" valign="top">
 
-- 🧩 C, C++, Python, Java, JavaScript
-- 🌐 HTML, CSS (Building my web foundation)
-- 🧮 Mathematics, Physics, Logic, Problem Solving
-- ⚙️ Git, GitHub, CMD, PowerShell
-- 🎨 Drawing & Design fundamentals for Game Art
+- 🧩 **C, C++, Python, Java, JavaScript**  
+- 🌐 **HTML, CSS** *(Building my web foundation)*  
+- 🧮 **Mathematics, Physics, Logic, Problem Solving**  
+- ⚙️ **Git, GitHub, CMD, PowerShell**  
+- 🎨 **Drawing & Design fundamentals for Game Art**
+
+</td>
+</tr>
+</table>
 
 ---
 
