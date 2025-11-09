@@ -42,7 +42,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <table>
 <tr>
 <td width="40%">
-  <img src="assets/learning.png" alt="Learning Illustration" width="100%" style="border-radius: 10px;">
+  <img src="https://ime.springerhealthplus.com/wp-content/uploads/2020/11/right-brain-left-brain.jpg" alt="Learning Illustration" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 
