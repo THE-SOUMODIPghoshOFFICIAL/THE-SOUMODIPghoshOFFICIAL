@@ -60,12 +60,22 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 
 ## 💼 My Next Milestones
 
-- Build my first **Interactive Website**
-- Create & publish my **first mobile app**
-- Develop a **lightweight 2D-3D drawing tool** for artists
-- Start contributing to **open-source projects**
-- Begin the early **OCTOPUS prototypes**
+<table>
+<tr>
+<td width="40%">
+  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+</td>
+<td width="60%" valign="top">
 
+- 🚀 Build my first **Interactive Website**  
+- 📱 Create & publish my first **mobile app**  
+- 🖊️ Develop a **lightweight 2D-3D drawing tool** for artists  
+- 🧩 Start contributing to **open-source projects**  
+- 🐙 Begin the early **OCTOPUS prototypes**
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Languages & Tools
