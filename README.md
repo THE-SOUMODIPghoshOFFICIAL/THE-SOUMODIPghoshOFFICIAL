@@ -63,7 +63,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <table>
 <tr>
 <td width="40%">
-  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+  <img src="https://images.pexels.com/photos/6540720/pexels-photo-6540720.jpeg" alt="Next Milestones" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 
