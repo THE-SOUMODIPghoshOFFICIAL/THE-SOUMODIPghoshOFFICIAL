@@ -13,7 +13,7 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 
 ---
 
-## 🧩 The Vision: PROJECT OCTOPUS 🐙
+## 🧩 The Vision: PROJECT ******** 🐙
 
 <table>
 <tr>
