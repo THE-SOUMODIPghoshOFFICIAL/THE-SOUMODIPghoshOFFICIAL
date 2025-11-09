@@ -95,12 +95,21 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ## 🧩 Fun Side
 
 🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Dreamer
-
+<table>
+<tr>
+<td width="40%">
+  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+</td>
+<td width="60%" valign="top">
 I grew up powered by imagination — cartoons like _Doraemon_ and universes like _Avengers_ didn’t just entertain me,  
 they made me question everything: science, existence, and the limits of human creation.
 
 While college lectures drown in routine and an education system that kills curiosity,  
 these stories fuel my fire — they remind me why I started learning, building, and dreaming in the first place.
+</td>
+</tr>
+</table>
+
 
 ---
 
