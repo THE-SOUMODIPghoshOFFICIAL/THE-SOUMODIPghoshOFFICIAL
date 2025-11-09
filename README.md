@@ -98,7 +98,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <table>
 <tr>
 <td width="40%">
-  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvAkgWAEH-qWy3g3GGrwqPOYDp9iYiX8bNQ&s" alt="Next Milestones" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 I grew up powered by imagination — cartoons like _Doraemon_ and universes like _Avengers_ didn’t just entertain me,  
