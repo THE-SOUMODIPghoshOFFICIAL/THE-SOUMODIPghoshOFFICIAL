@@ -131,7 +131,7 @@ these stories fuel my fire — they remind me why I started learning, building, 
 </td>
 </tr>
 </table>
----
+
 
 > “Knowledge without creation is noise.  
 >  Creation without vision is chaos.  
