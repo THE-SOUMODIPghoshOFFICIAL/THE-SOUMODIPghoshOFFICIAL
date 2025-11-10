@@ -99,7 +99,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <table>
 <tr>
 <td width="40%">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvAkgWAEH-qWy3g3GGrwqPOYDp9iYiX8bNQ&s" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvAkgWAEH-qWy3g3GGrwqPOYDp9iYiX8bNQ&s" alt="Fun Side" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
 I grew up powered by imagination — cartoons like _Doraemon_ and universes like _Avengers_ didn’t just entertain me,  
@@ -118,13 +118,13 @@ these stories fuel my fire — they remind me why I started learning, building, 
 <table>
 <tr>
 <td width="40%">
-  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+  <img src="https://ih1.redbubble.net/image.5922082033.2131/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="connect with me" width="100%" style="border-radius: 10px;">
 </td>
 <td width="60%" valign="top">
-- 🌐 _[Portfolio – Coming Soon]_
+- 🌐 [Portfolio – Coming Soon]
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
-- 🧠 _[LinkedIn: Comming soon]_
+- 🧠 [LinkedIn: Comming soon]
 
 </td>
 </tr>
