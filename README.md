@@ -20,7 +20,7 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 <td width="40%">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdn_I_T57nrG_zACHH9bHordF5ShPfceqA5wRa7oWfZCuBzmk-wiSAKaJSXfQEm2UiH_M&usqp=CAU" width="100%" style="border-radius: 10px;">
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="justify">
 
 > “Some visions are not meant to be spoken — they are meant to be built.”
 
@@ -45,7 +45,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <td width="40%">
   <img src="https://ime.springerhealthplus.com/wp-content/uploads/2020/11/right-brain-left-brain.jpg" alt="Learning Illustration" width="100%" style="border-radius: 10px;">
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="justify">
 
 - 🧩 **C, C++, Python, Java, JavaScript**
 - 🌐 **HTML, CSS** _(Building my web foundation)_
@@ -66,7 +66,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <td width="40%">
   <img src="https://t4.ftcdn.net/jpg/15/23/25/37/360_F_1523253725_WcksekgrKjKf1Oydfzc8sKbOCNTK5aBO.jpg" width="100%" style="border-radius: 10px;">
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="jutify">
 
 - 🚀 Build my first **Interactive Website**
 - 📱 Create & publish my first **mobile app**
