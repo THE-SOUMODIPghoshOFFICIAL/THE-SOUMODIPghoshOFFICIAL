@@ -116,10 +116,10 @@ these stories fuel my fire — they remind me why I started learning, building, 
 
 ## 📫 Connect
 
-- 🌐 [Portfolio – Coming Soon]
+- 🌐 _[Portfolio – Coming Soon]_
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
-- 🧠 LinkedIn: _(comming soon)_
+- 🧠 _[LinkedIn: comming soon]_
 
 ---
 
