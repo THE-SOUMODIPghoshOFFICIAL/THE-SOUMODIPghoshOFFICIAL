@@ -13,7 +13,7 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 
 ---
 
-## 🧩 The Vision: PROJECT ******** 🐙
+## 🧩 The Vision: PROJECT **\*\*\*\*** 🐙
 
 <table>
 <tr>
@@ -22,13 +22,13 @@ From drawing art on paper to writing code that builds worlds — I’m shaping m
 </td>
 <td width="60%" valign="top">
 
-> “Some visions are not meant to be spoken — they are meant to be built.”  
+> “Some visions are not meant to be spoken — they are meant to be built.”
 
 There’s something I’m working toward — something that connects everything I learn, create, and imagine.  
-For now, it stays behind the curtain.  
+For now, it stays behind the curtain.
 
 When the time comes — when the idea becomes real enough to change a small corner of the world —  
-this space will reveal what it truly means.  
+this space will reveal what it truly means.
 
 Until then, I’m learning, experimenting, and quietly constructing the foundation.
 
@@ -39,6 +39,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ---
 
 ## 🧠 What I’m Learning Now
+
 <table>
 <tr>
 <td width="40%">
@@ -46,10 +47,10 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 </td>
 <td width="60%" valign="top">
 
-- 🧩 **C, C++, Python, Java, JavaScript**  
-- 🌐 **HTML, CSS** *(Building my web foundation)*  
-- 🧮 **Mathematics, Physics, Logic, Problem Solving**  
-- ⚙️ **Git, GitHub, CMD, PowerShell**  
+- 🧩 **C, C++, Python, Java, JavaScript**
+- 🌐 **HTML, CSS** _(Building my web foundation)_
+- 🧮 **Mathematics, Physics, Logic, Problem Solving**
+- ⚙️ **Git, GitHub, CMD, PowerShell**
 - 🎨 **Drawing & Design fundamentals for Game Art**
 
 </td>
@@ -67,16 +68,15 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 </td>
 <td width="60%" valign="top">
 
-- 🚀 Build my first **Interactive Website**  
-- 📱 Create & publish my first **mobile app**  
-- 🖊️ Develop a **lightweight 2D-3D drawing tool** for artists  
-- 🧩 Start contributing to **open-source projects**  
+- 🚀 Build my first **Interactive Website**
+- 📱 Create & publish my first **mobile app**
+- 🖊️ Develop a **lightweight 2D-3D drawing tool** for artists
+- 🧩 Start contributing to **open-source projects**
 - 🐙 Begin the early ** project prototypes**
 
 </td>
 </tr>
 </table>
-
 
 ## 🛠️ Languages & Tools
 
@@ -95,6 +95,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 ## 🧩 Fun Side
 
 🎨 Artist | ⚙️ Maker | 💡 Inventor | 🎮 Dreamer
+
 <table>
 <tr>
 <td width="40%">
@@ -106,19 +107,19 @@ they made me question everything: science, existence, and the limits of human cr
 
 While college lectures drown in routine and an education system that kills curiosity,  
 these stories fuel my fire — they remind me why I started learning, building, and dreaming in the first place.
+
 </td>
 </tr>
 </table>
-
 
 ---
 
 ## 📫 Connect
 
 - 🌐 [Portfolio – Coming Soon]
-- 💬 Discord: **coming soon**
+- 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
-- 🧠 LinkedIn: _(Add when ready)_
+- 🧠 LinkedIn: _(comming soon)_
 
 ---
 
