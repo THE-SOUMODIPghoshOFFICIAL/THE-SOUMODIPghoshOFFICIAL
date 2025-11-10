@@ -115,12 +115,20 @@ these stories fuel my fire — they remind me why I started learning, building, 
 ---
 
 ## 📫 Connect
-
+<table>
+<tr>
+<td width="40%">
+  <img src="assets/milestones.png" alt="Next Milestones" width="100%" style="border-radius: 10px;">
+</td>
+<td width="60%" valign="top">
 - 🌐 _[Portfolio – Coming Soon]_
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
 - 🧠 _[LinkedIn: Comming soon]_
 
+</td>
+</tr>
+</table>
 ---
 
 > “Knowledge without creation is noise.  
