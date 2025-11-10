@@ -122,6 +122,7 @@ these stories fuel my fire — they remind me why I started learning, building, 
   <img src="https://ih1.redbubble.net/image.5922082033.2131/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="connect with me" width="100%" style="border-radius: 10px;">
 </td>
 <td width="80%" valign="top">
+
 - 🌐 [Portfolio – Coming Soon]
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
