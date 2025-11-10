@@ -119,7 +119,7 @@ these stories fuel my fire — they remind me why I started learning, building, 
 - 🌐 _[Portfolio – Coming Soon]_
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
 - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
-- 🧠 _[LinkedIn: comming soon]_
+- 🧠 _[LinkedIn: Comming soon]_
 
 ---
 
