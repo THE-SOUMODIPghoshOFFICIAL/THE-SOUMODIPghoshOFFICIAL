@@ -71,7 +71,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 - 📱 Create & publish my first **mobile app**  
 - 🖊️ Develop a **lightweight 2D-3D drawing tool** for artists  
 - 🧩 Start contributing to **open-source projects**  
-- 🐙 Begin the early **OCTOPUS prototypes**
+- 🐙 Begin the early ** project prototypes**
 
 </td>
 </tr>
