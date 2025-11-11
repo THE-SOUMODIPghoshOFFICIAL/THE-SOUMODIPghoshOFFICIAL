@@ -147,7 +147,7 @@ these stories fuel my fire — they remind me why I started learning, building, 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/THE-SOUMODIPghoshOFFICIAL/main/assets/line.png" width="75%" alt="divider">
+  <img src="https://img.freepik.com/premium-photo/red-neon-light-tube-shining-black-background_728202-11634.jpg?semt=ais_hybrid&w=740&q=80" width="75%" alt="divider">
 </p>
 
 ---
