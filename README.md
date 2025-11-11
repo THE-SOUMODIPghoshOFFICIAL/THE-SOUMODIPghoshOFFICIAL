@@ -138,3 +138,16 @@ these stories fuel my fire — they remind me why I started learning, building, 
 >  But when vision meets creation — that’s revolution.”
 
 — _Soumodip Ghosh_
+
+---
+
+<p align="center">
+  <h1 style="color:#00FFFF; font-size:38px;">🚀 EXPLORE THE REPOSITORY VAULT</h1>
+  <h3 style="color:#C0C0C0; font-weight:normal;">Every project below is a reflection of curiosity, logic, and creation.</h3>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THE-SOUMODIPghoshOFFICIAL/main/assets/line.png" width="75%" alt="divider">
+</p>
+
+---
