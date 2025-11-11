@@ -140,7 +140,9 @@ these stories fuel my fire — they remind me why I started learning, building, 
 — _Soumodip Ghosh_
 
 ---
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1510414148252-a2c44206f94b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZyUyMHJvYWR8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000"  height="130" width="900%" alt="divider">
+</p>
 <h1 align="center">
   <font color="#00FFFF">🚀 EXPLORE THE REPOSITORY VAULT</font>
 </h1>
