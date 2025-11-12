@@ -80,6 +80,12 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 
 ## 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://m.media-amazon.com/images/I/91TCesaFUTL.jpg" 
+       alt="tools"
+      width="100%" style="border-radius: 12px;">
+</p>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
