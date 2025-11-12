@@ -143,5 +143,19 @@ these stories fuel my fire — they remind me why I started learning, building, 
 <!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1510414148252-a2c44206f94b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZyUyMHJvYWR8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000"  height="130" width="900%" alt="divider">
 </p> -->
+<h1 align="center">
+  <font color="#00FFFF">🚀 EXPLORE THE REPOSITORY VAULT</font>
+</h1>
+
+<h3 align="center">
+  <font color="#C0C0C0">Every project below is a reflection of curiosity, logic, and creation.</font>
+</h3>
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/red-neon-light-tube-shining-black-background_728202-11634.jpg?semt=ais_hybrid&w=740&q=80" 
+       alt="divider"
+       width="90%" height="6px"
+       style="border-radius: 4px;">
+</p>
 
 
