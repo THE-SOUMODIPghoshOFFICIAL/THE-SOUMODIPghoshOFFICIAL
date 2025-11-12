@@ -125,7 +125,7 @@ these stories fuel my fire — they remind me why I started learning, building, 
 
 - 🌐 [Portfolio – Coming Soon]
 - 💬 X : [@Dips_soumayan](https://x.com/Dips_soumayan)
-- 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL)
+<!-- - 🐙 GitHub: [THE-SOUMODIPghoshOFFICIAL](https://github.com/THE-SOUMODIPghoshOFFICIAL) -->
 - 🧠 [LinkedIn: Comming soon]
 
 </td>
