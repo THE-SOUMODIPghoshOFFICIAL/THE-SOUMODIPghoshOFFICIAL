@@ -83,7 +83,7 @@ Until then, I’m learning, experimenting, and quietly constructing the foundati
 <p align="center">
   <img src="https://m.media-amazon.com/images/I/91TCesaFUTL.jpg" 
        alt="tools"
-      width="100%" style="border-radius: 12px;">
+      width="80%" style="border-radius: 12px;">
 </p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
